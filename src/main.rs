@@ -1,3 +1,5 @@
+// Sorting an array and finding target
+
 use std::cmp::Ordering;
 
 fn main() {
